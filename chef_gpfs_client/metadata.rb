@@ -1,6 +1,6 @@
 name 'gpfs_client'
 maintainer 'Steven Rhoods'
-maintainer_email 'steven.rhoods@squarepoint-capital.com'
+maintainer_email 'steven@rhoods.com'
 license 'All Rights Reserved'
 description 'Installs/Configures gpfs_client'
 version '0.0.1'
